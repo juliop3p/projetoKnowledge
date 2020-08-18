@@ -9,20 +9,20 @@
 ### Frontend: Vue.js - VueStrap
 
 
-# Login Page
+# Página de Login
 ![desktop img](./readmeImages/knowledge-signin.png)
 
-# Dashboard Page
+# Página Dashboard
 ![desktop img](./readmeImages/knowledge-dashboard.png)
 
-# Home Page
+# Página Home
 ![desktop img](./readmeImages/knowledge-dashboard.png)
 
-# Admin Page
+# Página de Admin
 ![desktop img](./readmeImages/knowledge-adm.png)
 
-# Artigos Page
+# Página de Artigos
 ![desktop img](./readmeImages/knowledge-posts.png)
 
-# Detalhes Artigos Page
+# Página de Detalhes do Artigo
 ![desktop img](./readmeImages/knowledge-article.png)
