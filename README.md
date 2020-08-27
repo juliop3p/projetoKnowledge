@@ -15,9 +15,6 @@
 # Página Dashboard
 ![desktop img](./readmeImages/knowledge-dashboard.png)
 
-# Página Home
-![desktop img](./readmeImages/knowledge-dashboard.png)
-
 # Página de Admin
 ![desktop img](./readmeImages/knowledge-adm.png)
 
